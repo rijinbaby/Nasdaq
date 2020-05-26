@@ -13,7 +13,7 @@ historical data up to 10 years of daily historical stock prices and volumes for 
 ## Installation
 ```
 # first install the R package "devtools" if not installed
-devtools::install_github('unimi-dse/d7f30b68')
+devtools::install_github('rijinbaby/Nasdaq')
 ```
 ## Usage
 ```
